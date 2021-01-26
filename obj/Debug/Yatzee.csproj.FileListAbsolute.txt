@@ -1,0 +1,12 @@
+C:\Users\train\OneDrive\Desktop\Yatzee\bin\Debug\Yatzee.exe.config
+C:\Users\train\OneDrive\Desktop\Yatzee\bin\Debug\Yatzee.exe
+C:\Users\train\OneDrive\Desktop\Yatzee\bin\Debug\Yatzee.pdb
+C:\Users\train\OneDrive\Desktop\Yatzee\obj\Debug\Yatzee.csprojAssemblyReference.cache
+C:\Users\train\OneDrive\Desktop\Yatzee\obj\Debug\Yatzee.Form1.resources
+C:\Users\train\OneDrive\Desktop\Yatzee\obj\Debug\Yatzee.Properties.Resources.resources
+C:\Users\train\OneDrive\Desktop\Yatzee\obj\Debug\Yatzee.csproj.GenerateResource.cache
+C:\Users\train\OneDrive\Desktop\Yatzee\obj\Debug\Yatzee.csproj.CoreCompileInputs.cache
+C:\Users\train\OneDrive\Desktop\Yatzee\obj\Debug\Yatzee.exe
+C:\Users\train\OneDrive\Desktop\Yatzee\obj\Debug\Yatzee.pdb
+C:\Users\train\OneDrive\Desktop\Yatzee\obj\Debug\Yatzee.GameOverForm.resources
+C:\Users\train\OneDrive\Desktop\Yatzee\obj\Debug\Yatzee.HighScore.resources
