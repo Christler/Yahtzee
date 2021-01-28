@@ -1,6 +1,6 @@
 ﻿namespace Yahtzee
 {
-    partial class Form1
+    partial class MainGameForm
     {
         /// <summary>
         /// Required designer variable.
