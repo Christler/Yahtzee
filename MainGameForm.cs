@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace Yahtzee
 {
-    public partial class Form1 : Form
+    public partial class MainGameForm : Form
     {
         private List<Die> dice = new List<Die>
         {
@@ -31,7 +31,7 @@ namespace Yahtzee
         private bool firstSectionComplete, secondSectionComplete;
         private int yatzeeBonus = 0;
 
-        public Form1()
+        public MainGameForm()
         {
             InitializeComponent();
             InitializeGame();
