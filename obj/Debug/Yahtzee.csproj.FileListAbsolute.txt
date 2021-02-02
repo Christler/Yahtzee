@@ -17,7 +17,6 @@ C:\Users\train\OneDrive\Desktop\Yahtzee\obj\Debug\Yahtzee.csproj.CoreCompileInpu
 C:\Users\train\OneDrive\Desktop\Yahtzee\bin\Debug\Yahtzee.exe.config
 C:\Users\train\OneDrive\Desktop\Yahtzee\bin\Debug\Yahtzee.exe
 C:\Users\train\OneDrive\Desktop\Yahtzee\bin\Debug\Yahtzee.pdb
-C:\Users\train\OneDrive\Desktop\Yahtzee\obj\Debug\Yahtzee.Form1.resources
 C:\Users\train\OneDrive\Desktop\Yahtzee\obj\Debug\Yahtzee.GameOverForm.resources
 C:\Users\train\OneDrive\Desktop\Yahtzee\obj\Debug\Yahtzee.HighScore.resources
 C:\Users\train\OneDrive\Desktop\Yahtzee\obj\Debug\Yahtzee.exe
@@ -34,3 +33,4 @@ C:\Users\RayEG\Source\Repos\GeorgeRay\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateR
 C:\Users\RayEG\Source\Repos\GeorgeRay\Yahtzee\obj\Debug\Yahtzee.csproj.CoreCompileInputs.cache
 C:\Users\RayEG\Source\Repos\GeorgeRay\Yahtzee\obj\Debug\Yahtzee.exe
 C:\Users\RayEG\Source\Repos\GeorgeRay\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\train\OneDrive\Desktop\Yahtzee\obj\Debug\Yahtzee.MainGameForm.resources
